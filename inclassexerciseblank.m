@@ -1,4 +1,18 @@
 % Akash Mitra
+%GB comments:
+I have no files to work off of, which makes grading pretty difficult.
+Step1 0 No code
+Step2 0 No files saved for either segmentation or probabilities 
+Step3 50 Need to use cat function to overlay images. 
+Step4 100
+Step5 100
+Step6 100 
+Step7 100 
+Step8 100
+Overall 69
+
+
+
 % am132
 
 %% step 1: write a few lines of code or use FIJI to separately save the
